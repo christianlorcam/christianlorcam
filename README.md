@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D16AQF0MuDXBVpwNw/profile-displaybackgroundimage-shrink_350_1400/B4DZ1jct.kIwAY-/0/1775489970096?e=1780531200&v=beta&t=hpu9Cs09IGjuA_epui6042RUYlDPRbdOMqDXkTgyWg8" alt="Banner de Christian Lorca" width="100%">
-  
+  <img src="https://i.postimg.cc/SRkSN4Ld/banner.jpg" alt="Banner de Christian Lorca" width="100%">  
   <br/>
   
   <h1>Hola, soy Christian 👋</h1>
